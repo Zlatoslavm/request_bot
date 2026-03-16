@@ -28,7 +28,7 @@ from aiogram.types import (
 
 # ================= НАСТРОЙКИ =================
 
-TOKEN = "8660546008:AAHgUrebyzuxR3ZxEOkTGPVOoidQgTtlQmo"
+TOKEN = "8793621177:AAHe1NJ-L3fcs6qWcx8pzSsGMqO7OVkKDds"
 
 ADMIN_ID = 8419332734
 
